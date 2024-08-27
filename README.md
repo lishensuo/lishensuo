@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lishensuo&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
+> These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
+
